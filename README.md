@@ -35,6 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos do dia a dia da sua rotina.
 
+- [Visite o projeto online](https://erley9593.github.io/NLW-Setup/)
 
 ## 🔖 Layout
 
